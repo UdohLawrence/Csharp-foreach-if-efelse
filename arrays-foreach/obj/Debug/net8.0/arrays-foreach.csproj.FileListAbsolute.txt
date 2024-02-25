@@ -1,0 +1,14 @@
+C:\Users\UDOH LAWRENCE\Desktop\Projects\FreecodecampCsharpLessons\arrays-foreach-if\arrays-foreach\bin\Debug\net8.0\arrays-foreach.exe
+C:\Users\UDOH LAWRENCE\Desktop\Projects\FreecodecampCsharpLessons\arrays-foreach-if\arrays-foreach\bin\Debug\net8.0\arrays-foreach.deps.json
+C:\Users\UDOH LAWRENCE\Desktop\Projects\FreecodecampCsharpLessons\arrays-foreach-if\arrays-foreach\bin\Debug\net8.0\arrays-foreach.runtimeconfig.json
+C:\Users\UDOH LAWRENCE\Desktop\Projects\FreecodecampCsharpLessons\arrays-foreach-if\arrays-foreach\bin\Debug\net8.0\arrays-foreach.dll
+C:\Users\UDOH LAWRENCE\Desktop\Projects\FreecodecampCsharpLessons\arrays-foreach-if\arrays-foreach\bin\Debug\net8.0\arrays-foreach.pdb
+C:\Users\UDOH LAWRENCE\Desktop\Projects\FreecodecampCsharpLessons\arrays-foreach-if\arrays-foreach\obj\Debug\net8.0\arrays-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UDOH LAWRENCE\Desktop\Projects\FreecodecampCsharpLessons\arrays-foreach-if\arrays-foreach\obj\Debug\net8.0\arrays-foreach.AssemblyInfoInputs.cache
+C:\Users\UDOH LAWRENCE\Desktop\Projects\FreecodecampCsharpLessons\arrays-foreach-if\arrays-foreach\obj\Debug\net8.0\arrays-foreach.AssemblyInfo.cs
+C:\Users\UDOH LAWRENCE\Desktop\Projects\FreecodecampCsharpLessons\arrays-foreach-if\arrays-foreach\obj\Debug\net8.0\arrays-foreach.csproj.CoreCompileInputs.cache
+C:\Users\UDOH LAWRENCE\Desktop\Projects\FreecodecampCsharpLessons\arrays-foreach-if\arrays-foreach\obj\Debug\net8.0\arrays-foreach.dll
+C:\Users\UDOH LAWRENCE\Desktop\Projects\FreecodecampCsharpLessons\arrays-foreach-if\arrays-foreach\obj\Debug\net8.0\refint\arrays-foreach.dll
+C:\Users\UDOH LAWRENCE\Desktop\Projects\FreecodecampCsharpLessons\arrays-foreach-if\arrays-foreach\obj\Debug\net8.0\arrays-foreach.pdb
+C:\Users\UDOH LAWRENCE\Desktop\Projects\FreecodecampCsharpLessons\arrays-foreach-if\arrays-foreach\obj\Debug\net8.0\arrays-foreach.genruntimeconfig.cache
+C:\Users\UDOH LAWRENCE\Desktop\Projects\FreecodecampCsharpLessons\arrays-foreach-if\arrays-foreach\obj\Debug\net8.0\ref\arrays-foreach.dll
